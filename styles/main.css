@@ -125,13 +125,13 @@ top: 25%
   Content:"";
   height: 0;
   Width: 0;
-  right: 100%;
-  top: 25%
   Border-top: solid 10px transparent;
   Border-left: solid 10px transparent;
   Border-right: solid 10px white;
   border-bottom: solid 10px transparent;
   Position: absolute;
+  right: 100%;
+  top: 25%;
 }
 
 .item3info::after{
@@ -139,7 +139,7 @@ Content:"";
 height: 0;
 Width: 0;
 left: 100%;
-top: 60%
+top: 60%;
 Border-top: solid 10px transparent;
 Border-left: solid 10px white;
 Border-right: solid 10px transparent;
